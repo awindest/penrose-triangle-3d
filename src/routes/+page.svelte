@@ -1,5 +1,4 @@
 <script lang="ts">
-	// import Export from './Export.svelte'
 	import { Canvas } from '@threlte/core'
 	import Scene from './Scene.svelte'
 </script>
@@ -25,7 +24,7 @@
 			alt="Laboratory Flask"
 		/>
 		<div>
-			<a href="https://github.com/awindest" class="underline">Source Code </a><br />
+			<a href="https://github.com/awindest/penrose-triangle-3d" class="underline">Source Code </a><br />
 		</div>
 	</div>
 
