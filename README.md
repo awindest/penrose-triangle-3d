@@ -14,4 +14,4 @@ over to sketchfab and did a quick search and found the wonderful work of [Michae
 
 You are free to copy and use this threlte code. This was a learning experience for me. At first after I loaded the model, it wouldn't show up - all black. So after some reading about Environments, I used an image from a previous project and Voila! the model showed up. More to come!
 
-This project uses threlte, tailwindcss, postcss and threejs. You may view the results here.
+This project uses threlte, tailwindcss, postcss and threejs. You may view the results [here](https://penrose-triangle-3d.vercel.app/).
